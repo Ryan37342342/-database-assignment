@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\sql\D2\D2 SQL\D2 SQL\bin\Debug\D2 SQL.exe.config
+C:\Users\Owner\Desktop\sql\D2\D2 SQL\D2 SQL\bin\Debug\D2 SQL.exe
+C:\Users\Owner\Desktop\sql\D2\D2 SQL\D2 SQL\bin\Debug\D2 SQL.pdb
+C:\Users\Owner\Desktop\sql\D2\D2 SQL\D2 SQL\obj\Debug\D2 SQL.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\sql\D2\D2 SQL\D2 SQL\obj\Debug\D2_SQL.Properties.Resources.resources
+C:\Users\Owner\Desktop\sql\D2\D2 SQL\D2 SQL\obj\Debug\D2 SQL.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\sql\D2\D2 SQL\D2 SQL\obj\Debug\D2 SQL.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\sql\D2\D2 SQL\D2 SQL\obj\Debug\D2 SQL.exe
+C:\Users\Owner\Desktop\sql\D2\D2 SQL\D2 SQL\obj\Debug\D2 SQL.pdb
+C:\Users\Owner\Desktop\sql\D2\D2 SQL\D2 SQL\obj\Debug\D2_SQL.DisplayPage.resources
+C:\Users\Owner\Desktop\sql\D2\D2 SQL\D2 SQL\obj\Debug\D2_SQL.Login.resources
